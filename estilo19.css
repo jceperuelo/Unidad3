@@ -1,0 +1,14 @@
+*{ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+h1 {margin-left: 20px;
+}
+p {margin-left: 20px;
+}
+
+.tabla {margin-left: 20px;
+border: 2px solid black;}
+
+th, td {
+    border: 1px solid black;
+}
+
+u {color: blueviolet;}

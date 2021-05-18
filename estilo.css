@@ -1,0 +1,5 @@
+.cajaext, th, td {border: 2px; border-style: solid; border-color: mediumblue;}
+.uno {background-color: darkslategrey;}
+.dos {background-color: rgb(51, 255, 0);}
+.tres {background-color: palegreen;}
+.uno, .dos, .tres {text-align: left;}

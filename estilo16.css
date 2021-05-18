@@ -1,0 +1,18 @@
+#container {
+    width: 500px;
+    margin: auto;
+    padding-top: 200px;
+}
+
+th, tr {
+    border: 2px solid orange;
+}
+
+.uno {background-color: green;}
+.dos {background-color: rgb(255, 94, 0);}
+.tres {background-color:yellow;}
+.cuatro {background-color: wheat;}
+
+.tabla {padding: 0px;
+border: 3px double orange;}
+
